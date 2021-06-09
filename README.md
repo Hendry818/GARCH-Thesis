@@ -7,3 +7,7 @@ This is the repository for R code associated with the paper "Impact of COVID-19 
 | 01-Get_Index_Data.R              | Using the internet, imports a dataset of prices of the Ibovespa index.                             |
 | 02-Do_Descriptive_Figures.R      | Creates and saves all descriptive figures presented in the paper.                                  |
 | 03-Do_ARCH_Test.R                | Performs the arch test in the data.                                                                |
+| 03-Do_ARCH_Test.R                | Performs the arch test in the data.                                                                |
+| 03-Do_ARCH_Test.R                | Performs the arch test in the data.                                                                |
+| 03-Do_ARCH_Test.R                | Performs the arch test in the data.                                                                |
+| 03-Do_ARCH_Test.R                | Performs the arch test in the data.                                                                |
