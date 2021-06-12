@@ -33,12 +33,11 @@ This is the repository for R code associated with the paper "Impact of COVID-19 
 
 2) Install latest version of RStudio ([link](https://rstudio.com/products/rstudio/download/))
 
-3) Download [zip file](https://github.com/msperlin/GARCH-RAC/archive/master.zip) from this repository.
+3) Download [zip file](https://github.com/Hendry818/GARCH-Thesis/archive/refs/heads/main.zip) from this repository.
 
 4) Unzip the content of zip file in a personal folder
 
-5) Run first script _00-Prepare_Computer.R_ to install all dependencies of the code. For that, in RStudio, open R script file and press _control + shift + enter_
+5) Run first script _00-Prep_Packages.R_ to install all dependencies of the code. For that, in RStudio, open R script file and press _control + shift + enter_
 
 6) Execute other scripts in root folder in order to reproduce all results from the paper
-
-If these steps don't work for you, please [let us know](https://github.com/msperlin/GARCH-RAC/issues) by reporting OS (windows/linux/mac), R version and error code (if any). 
+ 
