@@ -16,6 +16,17 @@ This is the repository for R code associated with the paper "Impact of COVID-19 
 | 07-Finding_Best_GARCH.R          | The scripts predict the best ARMA(AR,MA)-GARCH(p,q) model for the data set, including changes in variance equation and also the distribution parameter by producing the result in the research paper                                                                                 |
 | 08-Simulating_GARCH.R            | Simulates the best GARCH models produced in 06-Finding_Best_GARCH.R and plot simulated paths and probabilities by producing the result in the research paper                                                                                                                          |
 
+## Eviews Data
+
+| Filename                                          | Description                                                                                        |
+|---------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Returns.xlsx                                      | Setup computer by installing all required R packages. **This is a mandatory step.**                |
+| Pre COVID-19 Data and During COVID-19 Data.xlsx   | Using the internet, imports a dataset of prices of the Hang Seng Index                             |
+| GJR-GARCH Dummy Data.xlsx                         | Setup computer by installing all required R packages. **This is a mandatory step.**                |
+| GJR-GARCH Dummy Results.png                       | Setup computer by installing all required R packages. **This is a mandatory step.**                |
+| Correlogram Squared Residuals GJR-GARCH Dummy.png | Setup computer by installing all required R packages. **This is a mandatory step.**                |
+| Hendry's Handbook GJR-GARCH.docx                  | Setup computer by installing all required R packages. **This is a mandatory step.**                |
+
 ## Instructions
 
 1) Install latest version of R ([link](https://cloud.r-project.org/) )
